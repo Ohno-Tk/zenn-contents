@@ -1,0 +1,9 @@
+name: 記事追加・改善
+description: 記事追加・改善はこちら
+title: "[Documentation]: "
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: supplement
+    attributes:
+      label: 参考サイト
